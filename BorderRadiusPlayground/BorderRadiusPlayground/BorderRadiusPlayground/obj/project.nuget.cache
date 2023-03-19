@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkfrT+nULn3oxNebf6J7MepUux81QOLFdSPFcPLW2v+lDf6LqT/lyU7aB4OZFZ3t+i0LNmyYZiuXCIPSSDQQwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvar\\Desktop\\Repos\\CornerRadiusPlayground\\BorderRadiusPlayground\\BorderRadiusPlayground\\BorderRadiusPlayground\\BorderRadiusPlayground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

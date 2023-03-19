@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGp1EDydoc9a2CkqilRRKqps7c9GOzZETOjzSyHT3o7qC6aWQZOcaV5jYXHoWzbvKOkEOwS8za48tFHfy9Z24Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvar\\Desktop\\Repos\\CornerRadiusPlayground\\BorderRadiusPlayground\\BorderRadiusPlayground\\BorderRadiusPlayground.iOS\\BorderRadiusPlayground.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvar\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BorderRadiusPlayground.MainPage"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="CornerRadius visualizer" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <yummy:PancakeView x:Name="Playground" BackgroundColor="#bc91d7" CornerRadius="300,300,300,300" IsClippedToBounds="true" HorizontalOptions="Center" WidthRequest ="300" HeightRequest="300"/>
+        <Slider x:Name="TopLeft" Maximum="100"
+                ValueChanged="CornerOneChanged" />
+        <Slider x:Name="TopRight" Maximum="100"
+                ValueChanged="CornerOneChanged" />
+        <Slider x:Name="BottomLeft" Maximum="100"
+                ValueChanged="CornerOneChanged" />
+        <Slider x:Name="BottomRight" Maximum="100"
+                ValueChanged="CornerOneChanged" />
+    </StackLayout>
+
+</ContentPage>
