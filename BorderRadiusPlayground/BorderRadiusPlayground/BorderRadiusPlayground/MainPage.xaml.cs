@@ -18,23 +18,11 @@ namespace BorderRadiusPlayground
         {
             Playground.CornerRadius = new CornerRadius(topLeft, topRight, bottomLeft, bottomRight);
         }
-        public void CornerOneChanged(object sender, EventArgs e)
+        public void CornerChanged(object sender, EventArgs e)
         {
             float ratio = (float)Playground.WidthRequest / (float)TopLeft.Maximum;
             ChangeCornerRadius((float)TopLeft.Value*ratio, (float)TopRight.Value * ratio, (float)BottomLeft.Value * ratio, (float)BottomRight.Value * ratio);
             //Playground.CornerRadius = e.NewSliderValue;
-        }
-        public void CornerTwoChanged(object sender, EventArgs e)
-        {
-
-        }
-        public void CornerThreeChanged(object sender, EventArgs e)
-        {
-
-        }
-        public void CornerFourChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

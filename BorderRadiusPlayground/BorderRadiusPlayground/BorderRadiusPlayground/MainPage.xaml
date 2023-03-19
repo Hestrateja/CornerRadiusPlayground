@@ -10,13 +10,13 @@
         </Frame>
         <yummy:PancakeView x:Name="Playground" BackgroundColor="#bc91d7" CornerRadius="300,300,300,300" IsClippedToBounds="true" HorizontalOptions="Center" WidthRequest ="300" HeightRequest="300"/>
         <Slider x:Name="TopLeft" Maximum="100"
-                ValueChanged="CornerOneChanged" />
+                ValueChanged="CornerChanged" />
         <Slider x:Name="TopRight" Maximum="100"
-                ValueChanged="CornerOneChanged" />
+                ValueChanged="CornerChanged" />
         <Slider x:Name="BottomLeft" Maximum="100"
-                ValueChanged="CornerOneChanged" />
+                ValueChanged="CornerChanged" />
         <Slider x:Name="BottomRight" Maximum="100"
-                ValueChanged="CornerOneChanged" />
+                ValueChanged="CornerChanged" />
     </StackLayout>
 
 </ContentPage>

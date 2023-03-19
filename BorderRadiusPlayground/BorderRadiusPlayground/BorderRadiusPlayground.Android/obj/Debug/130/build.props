@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638148284672779738
+_nugetassetstimestamp=638148302600662520
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\alvar\desktop\.net\borderradiusplayground\borderradiusplayground\borderradiusplayground.android\borderradiusplayground.android.csproj
+projectfullpath=c:\users\alvar\desktop\repos\cornerradiusplayground\borderradiusplayground\borderradiusplayground\borderradiusplayground.android\borderradiusplayground.android.csproj
